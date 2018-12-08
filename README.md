@@ -15,6 +15,7 @@ Nieliniowe FPP z elementami RPG na styl gry **Deus Ex**.
 ### Programowanie
 * Piotr Szpila
 * Damian Tomaszek
+* Piotr Socha
 ### Grafika 2D
 * Mateusz Dadak
 * Krzysztof Lenkiewicz
@@ -27,6 +28,7 @@ Nieliniowe FPP z elementami RPG na styl gry **Deus Ex**.
 ### Level Design
 * Piotr Jagosz
 * Adam Niżnik
+* Damian Garstka
 ### Dźwięk/Muzyka
 * Mateusz Dadak
 
